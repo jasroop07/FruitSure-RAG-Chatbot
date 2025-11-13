@@ -22,7 +22,9 @@ This chatbot allows users to ask questions about fruit diseases, storage methods
 
 The chatbot is powered by a modular and scalable **Retrieval-Augmented Generation pipeline**.
 
-![RAG Architecture](assets/rag_architecture.png)
+<p align="center">
+  <img src="assets/rag_architecture.png" alt="RAG Architecture" width="90%" height="350px">
+</p>
 
 ### **How it Works**
 1. **Load Documents** using `data_loader.py`  

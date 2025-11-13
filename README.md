@@ -9,11 +9,12 @@ This chatbot allows users to ask questions about fruit diseases, storage methods
 
 # 📸 Demo Screenshots
 
-### Chatbot – Home Screen
-![Chatbot Demo 1](assets/chatbot_demo_1.png)
+<div style="display: flex; gap: 10px;">
 
-### Example Conversation
-![Chatbot Demo 2](assets/chatbot_demo_2.png)
+  <img src="assets/chatbot_demo_1.png" alt="Chatbot Demo 1" width="48%">
+  <img src="assets/chatbot_demo_2.png" alt="Chatbot Demo 2" width="48%">
+
+</div>
 
 ---
 
@@ -40,4 +41,3 @@ This ensures responses are grounded in real FruitSure data—not hallucinated.
 ## 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
-python main.py
